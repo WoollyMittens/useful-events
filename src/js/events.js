@@ -1,6 +1,6 @@
 /*
 	Source:
-	van Creij, Maurice (2018). "events.js: Some tools for event handlers.", http://www.woollymittens.nl/.
+	van Creij, Maurice (2018). "events.js: Event library.", http://www.woollymittens.nl/.
 
 	License:
 	This work is licensed under a Creative Commons Attribution 3.0 Unported License.

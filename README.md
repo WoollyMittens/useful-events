@@ -1,4 +1,4 @@
-# events.js: Some tools for event handlers.
+# events.js: Event library.
 
 A collection of tools for working with event handlers.
 
