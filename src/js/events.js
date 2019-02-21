@@ -22,6 +22,5 @@ var events = {
 };
 
 // return as a require.js module
-if (typeof module !== 'undefined') {
-	exports = module.exports = events;
-}
+if (typeof define != 'undefined') define(['events'], function () { return events });
+if (typeof module != 'undefined') module.exports = events;
