@@ -9,7 +9,23 @@ Try the <a href="http://www.woollymittens.nl/default.php?url=useful-events">demo
 This include can be added to the header or placed inline before the script is invoked.
 
 ```html
-<script src="./js/events.js"></script>
+<script src="js/events.js"></script>
+```
+
+Or use [Require.js](https://requirejs.org/).
+
+```js
+requirejs([
+	'js/events.js'
+], function(events) {
+	...
+});
+```
+
+Or import into an MVC framework.
+
+```js
+var events = require('js/events.js');
 ```
 
 ## How to start the script
