@@ -2,8 +2,6 @@
 
 A collection of tools for working with event handlers.
 
-Try the <a href="http://www.woollymittens.nl/default.php?url=useful-events">demo</a>.
-
 ## How to include the script
 
 This include can be added to the header or placed inline before the script is invoked.
